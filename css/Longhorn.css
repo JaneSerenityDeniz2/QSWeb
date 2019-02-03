@@ -1,5 +1,5 @@
 /*!
- * Codename Longhorn v1.6 Milestone 5A
+ * Codename Longhorn v1.6 Milestone 5B
  * Public Release
  * Copyright 2014-2019 Quantum Science Inc
  * MIT License (https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE)
